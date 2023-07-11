@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#about{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
